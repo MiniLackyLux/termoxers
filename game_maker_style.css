@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+#title {
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#guide {
+    color: aquamarine;
+    font-size: 5mm;
+}
+
+#icon_align {
+    align-items: initial;
+}
