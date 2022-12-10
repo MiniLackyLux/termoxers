@@ -21,12 +21,44 @@ p {
     color: aquamarine;
     font-size: medium;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 #publisher {
     color: crimson;
+    font-family: unset;
 }
+
 #lower_part {
     background-color: black;
     padding-bottom: 0cm;
+}
+
+#icon {
+    border-radius: 1mm;
+    border: azure;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#python_download {
+    background-color: black;
+    padding: 4mm;
+    
+}
+
+#py_dw_tx {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
 }
