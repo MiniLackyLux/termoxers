@@ -55,7 +55,7 @@ h3 {
 
 #python_download {
     background-color: black;
-    padding: 1mm;
+    padding-top: 1mm;
     text-align: center;
 }
 
@@ -84,7 +84,21 @@ h3 {
 
 a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
+    font-size: px;
+}
+
+#redirect_py {
+    font-size: 13.45px;
+}
+
+h6 {
+    font-size: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tos_py {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /*How to center a div
